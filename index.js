@@ -1,7 +1,8 @@
 function startTimer(duration, display) {
   var timer = duration, seconds;
+  
   setInterval(function () {
-    display.textContent = seconds;
+    display.textContent = timer;
     
     if(--timer < 0) {
       timer = duration;
