@@ -1,3 +1,17 @@
+body {
+  font-family: Roboto, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Fira Sans, Ubuntu, Oxygen, Oxygen Sans, Cantarell, Droid Sans, Lucida Grande, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Emoji, Segoe UI Symbol, Hiragino Kaku Gothic Pro, Meiryo, Hiragino Sans GB W3, Noto Naskh Arabic, Droid Arabic Naskh, Geeza Pro, Simplified Arabic, Noto Sans Thai, Thonburi, Dokchampa, Droid Sans Thai, Droid Sans Fallback, '.SFNSDisplay-Regular', Heiti SC, Microsoft Yahei;
+  color: #283F4D;
+  background-color: #283F4D;
+  padding: 45px;
+}
+
+div {
+  background-color: #FFFFFF;
+  padding: 20px;
+  border-radius: 10px;
+  line-height: 180%;
+}
+
 a {
   position: relative;
   color: #0073B1;
@@ -12,7 +26,7 @@ a:before {
   content: "";
   position: absolute;
   width: 100%;
-  height: 2px;
+  height: 1px;
   bottom: 0;
   left: 0;
   background-color: #0073B1;
