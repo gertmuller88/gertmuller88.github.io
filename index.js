@@ -12,5 +12,5 @@ function startTimer(duration, display) {
 
 window.onload = function () {
   display = document.querySelector('#time');
-  startTimer(10, display);
+  startTimer(15, display);
 };
