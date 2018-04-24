@@ -2,15 +2,15 @@ function startTimer(duration, display) {
   var timer = duration, seconds;
   
   setInterval(function () {
-    display.textContent = timer;
-    
-    if(--timer < 0) {
-      timer = duration;
+    if(--timer<=0) {
+      display.textContent = "";
+    } else {
+      display.textContent = "within " + timer + " seconds";
     }
   }, 1000);
 }
 
 window.onload = function () {
   display = document.querySelector('#time');
-  startTimer(15, display);
+  startTimer(10, display);
 };
