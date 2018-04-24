@@ -1,5 +1,5 @@
 function startTimer(duration, display) {
-  var timer = duration, seconds;
+  var timer = duration;
   
   setInterval(function () {
     if(--timer<=0) {
