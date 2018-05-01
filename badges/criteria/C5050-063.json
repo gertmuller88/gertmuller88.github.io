@@ -1,7 +1,0 @@
-{
-  "@context": "https://w3id.org/openbadges/v1",
-  "type": "Criteria",
-  "uid": "C5050-063",
-  "id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/criteria/C5050-063.json",
-  "narrative": "The test consists of 5 sections containing a total of approximately 55 multiple-choice questions. The percentages after each section reflect the approximate distribution of the total question set across the sections.\nAssessment: Passing the test with a score of 70% or higher in 75 minutes."
-}
