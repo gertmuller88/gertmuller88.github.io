@@ -1,5 +1,5 @@
 {
-  "@context": "https://w3id.org/openbadges/v1",
+  "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
   "uid": "38001801",
   "id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/badges/38001801",

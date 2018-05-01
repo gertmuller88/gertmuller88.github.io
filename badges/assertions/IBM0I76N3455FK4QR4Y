@@ -1,5 +1,5 @@
 {
-  "@context": "https://w3id.org/openbadges/v1",
+  "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
   "uid": "IBM0I76N3455FK4QR4Y",
   "id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/assertions/IBM0I76N3455FK4QR4Y",
