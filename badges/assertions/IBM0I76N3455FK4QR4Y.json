@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "badge": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/badges/38001801.json",
+  "evidence": [],
+  "id": "IBM0I76N3455FK4QR4Y",
+  "issuedOn": "2018-04-30T19:33:38.000Z",
+  "recipient": {
+    "type": "email",
+    "identity": "gertmuller88@gmail.com"
+  },
+  "type": "Assertion",
+  "verification": {
+    "type": "hosted",
+    "url": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/assertions/IBM0I76N3455FK4QR4Y.json"
+  }
+}
