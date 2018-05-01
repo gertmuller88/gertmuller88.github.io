@@ -1,0 +1,13 @@
+{
+  "@context":"https://w3id.org/openbadges/v2",
+  "badge":"https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/class.json",
+  "evidence":[],
+  "id":"https://www.ibm.com/certify/members/profiles.nsf/LinkedInHome?OpenForm&authlinkedin=IBM0I76N3455FK4QR4Y",
+  "issuedOn":"2018-03-22T03:22:42.000Z",
+  "recipient":{
+    "type":"email",
+    "identity":"sha256$0559fc107a50dee0545cffc6cafd9d89f0b596b0eec12ab74ec62109674840ca",
+    "hashed":true
+  },
+  "type":"Assertion"
+}
