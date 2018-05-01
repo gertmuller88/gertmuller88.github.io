@@ -9,7 +9,7 @@
     "identity": "gertmuller88@gmail.com"
   },
   "type": "Assertion",
-  "verification": {
+  "verify": {
     "type": "hosted",
     "url": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/assertions/IBM0I76N3455FK4QR4Y.json"
   }
