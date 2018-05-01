@@ -9,5 +9,9 @@
     "identity":"sha256$0559fc107a50dee0545cffc6cafd9d89f0b596b0eec12ab74ec62109674840ca",
     "hashed":true
   },
-  "type":"Assertion"
+  "type":"Assertion",
+  "verify":{
+    "type":"hosted",
+    "url":"https://github.com/gertmuller88/gertmuller88.github.io/raw/master/award.json"
+  }
 }
