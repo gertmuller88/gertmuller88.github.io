@@ -15,7 +15,11 @@
   },
   "issuedOn": "2018-04-30T19:33:38.000Z",
   "image": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/images/IBMCDP-RUCR.png",
-  "evidence": [{"id": "https://www.ibm.com/certify/members/profiles.nsf/LinkedInHome?OpenForm&authlinkedin=IBM0I76N3455FK4QR4Y", "name": "Online Certification Authentication"},
-               {"id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/documents/IBM0I76N3455FK4QR4Y-certificate.pdf", "name": "Printed Certification"},
-               {"id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/documents/IBM0I76N3455FK4QR4Y-scorereport.pdf", "name": "Exam Score Report"}]
+  "evidence": {
+                "@context": "https://w3id.org/openbadges/v2",
+                "evidence":
+                [{"id": "https://www.ibm.com/certify/members/profiles.nsf/LinkedInHome?OpenForm&authlinkedin=IBM0I76N3455FK4QR4Y", "name": "Online Certification Authentication"},
+                 {"id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/documents/IBM0I76N3455FK4QR4Y-certificate.pdf", "name": "Printed Certification"},
+                 {"id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/documents/IBM0I76N3455FK4QR4Y-scorereport.pdf", "name": "Exam Score Report"}]
+  }
 }
