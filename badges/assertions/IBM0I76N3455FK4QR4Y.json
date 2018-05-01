@@ -6,7 +6,7 @@
   "recipient": {
     "type": "email",
     "identity": "gertmuller88@gmail.com",
-    "hashed": "false"
+    "hashed": false
   },
   "badge": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/badges/38001801.json",
   "verify": {
