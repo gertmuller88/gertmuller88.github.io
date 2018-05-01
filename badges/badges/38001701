@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "uid": "38001701",
+  "id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/badges/38001701",
+  "name": "IBM Certified Deployment Professional, Rational UrbanCode Deploy",
+  "description": "This certification targets intermediate level Deployment Professionals. This Deployment Professional can plan, install, configure and troubleshoot a new implementation of the UrbanCode Deploy product. The Deployment Professional can also upgrade, update, configure and troubleshoot existing installations of UrbanCode Deploy. The Deployment Professional should have an intermediate level of knowledge of UrbanCode Deploy and a firm understanding of how UrbanCode Deploy can be implemented in a small and simple environment as well as a large and complex environment. The Deployment Professional can train, tutor and mentor IBM customers in the installation, configuration and ongoing use of UrbanCode Deploy. The Deployment Professional can perform most of these tasks independently and may require some assistance from peers and vendor support services.\n \nPass the Exam C5050-062 - Rational UrbanCode Deploy - English (ENU) with a score of 60% or higher of a total of 70 questions in 75 minutes.",
+  "image": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/images/38001701.png",
+  "criteria": "https://www.ibm.com/certify/exam.html?id=C5050-062",
+  "issuer": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/issuers/ibm",
+  "alignment": [],
+  "tags": [
+    "Cloud",
+    "Deployment",
+    "Automation"
+  ]
+}

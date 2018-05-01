@@ -1,0 +1,19 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "uid": "IBM0X8J3LK2581B05F1",
+  "id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/assertions/IBM0X8J3LK2581B05F1",
+  "recipient": {
+    "type": "email",
+    "identity": "sha256$0559fc107a50dee0545cffc6cafd9d89f0b596b0eec12ab74ec62109674840ca",
+    "hashed": true
+  },
+  "badge": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/badges/38001701",
+  "verify": {
+    "type": "hosted",
+    "url": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/assertions/IBM0X8J3LK2581B05F1"
+  },
+  "issuedOn": "2018-04-30T19:33:38.000Z",
+  "image": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/images/38001801.png",
+  "evidence": "https://www.ibm.com/certify/members/profiles.nsf/LinkedInHome?OpenForm&authlinkedin=IBM0X8J3LK2581B05F1"
+}
