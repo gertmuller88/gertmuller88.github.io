@@ -5,8 +5,8 @@
   "id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/assertions/IBM0I76N3455FK4QR4Y",
   "recipient": {
     "type": "email",
-    "identity": "gertmuller88@gmail.com",
-    "hashed": false
+    "identity": "sha256$0559fc107a50dee0545cffc6cafd9d89f0b596b0eec12ab74ec62109674840ca",
+    "hashed": true
   },
   "badge": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/badges/38001801",
   "verify": {
