@@ -6,8 +6,7 @@
   "issuedOn":"2018-03-22T03:22:42.000Z",
   "recipient":{
     "type":"email",
-    "identity":"sha256$0559fc107a50dee0545cffc6cafd9d89f0b596b0eec12ab74ec62109674840ca",
-    "hashed":true
+    "identity":"gertmuller88@gmail.com"
   },
   "type":"Assertion",
   "verify":{
