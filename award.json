@@ -1,5 +1,5 @@
 {
-  "@context":"https://w3id.org/openbadges/v2",
+  "@context":"https://w3id.org/openbadges/v1",
   "badge":"https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/class.json",
   "evidence":[],
   "id":"https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/award.json",
