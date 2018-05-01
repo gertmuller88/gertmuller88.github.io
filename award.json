@@ -12,6 +12,6 @@
   "type":"Assertion",
   "verify":{
     "type":"hosted",
-    "url":"https://github.com/gertmuller88/gertmuller88.github.io/raw/master/award.json"
+    "url":"https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/award.json"
   }
 }
