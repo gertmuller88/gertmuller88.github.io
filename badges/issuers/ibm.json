@@ -1,7 +1,8 @@
 {
   "@context": "https://w3id.org/openbadges/v1",
-  "id": "IBM",
   "type": "Issuer",
+  "uid": "IBM",
+  "id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/issuers/ibm.json",
   "name": "IBM",
   "url": "http://www.ibm.com/",
   "email": "certify@us.ibm.com",
