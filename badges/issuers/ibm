@@ -7,6 +7,5 @@
   "url": "http://www.ibm.com/",
   "email": "certify@us.ibm.com",
   "description": "IBM is recognized as a cognitive solutions and cloud platform company with one purpose: to be essential to the world. We do this in part through innovative learning and credentialing programs that help develop and recognize the talent that fuels innovation to change the world.  IBM's Digital Badge Program represents our latest endeavor for recognizing this talent through secure, verifiable digital credentials representing skill, achievement, and contribution. Earn and share your badge today!",
-  "image": "https://acclaim-production-app.s3.amazonaws.com/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png",
-  "revocation_list": []
+  "image": "https://acclaim-production-app.s3.amazonaws.com/images/854d76bf-4f74-4d51-98a0-d969214bfba7/IBM%2BLogo%2Bfor%2BAcclaim%2BProfile.png"
 }

@@ -1,0 +1,8 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Criteria",
+  "uid": "38001801",
+  "id": "https://raw.githubusercontent.com/gertmuller88/gertmuller88.github.io/master/badges/criteria/38001801",
+  "criteria": "https://www.ibm.com/certify/exam.html?id=C5050-063",
+  "narrative": "Pass Exam C5050-063 - Rational UrbanCode Release - English (ENU) with a score of 70% or higher of a total of 50 questions in 75 minutes."
+}
