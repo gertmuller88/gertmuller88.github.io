@@ -131,11 +131,11 @@ $(document).ready(function () {
      **************************************************************************/
     $('#portfolio-item').mixItUp();
 
-    $('.sa-view-projects-detail').on('click', function (event) {
+    $('.sa-view-project-detail').on('click', function (event) {
         event.preventDefault();
         var href = $(this).attr('href') + ' ' + $(this).attr('data-action'),
-            dataShow = $('#projects-gallery-view'),
-            dataShowMeta = $('#projects-gallery-view meta'),
+            dataShow = $('#project-gallery-view'),
+            dataShowMeta = $('#project-gallery-view meta'),
             dataHide = $('#portfolio-item'),
             preLoader = $('#loader'),
             backBtn = $('#back-button'),
@@ -161,7 +161,7 @@ $(document).ready(function () {
     $('#back-button').on('click', function (event) {
         event.preventDefault();
         var dataShow = $('#portfolio-item'),
-            dataHide = $('#projects-gallery-view'),
+            dataHide = $('#project-gallery-view'),
             filterBtn = $('#filter-button');
 
         $("[data-animate]").each(function () {

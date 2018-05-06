@@ -14,19 +14,15 @@ body {
     background-color: #5da4d9;
 
 }
-
 .sidebar .heading nav .button-collapse i {
     background-color: #5da4d9;
 }
-
 .sidebar .heading nav .side-nav h3 {
     color: #e74c3c;
 }
-
 .sidebar .heading nav .side-nav li a:hover {
     color: #5da4d9;
 }
-
 .sidebar .heading nav .side-nav li:hover {
     background-color: transparent !important;
 }
@@ -38,7 +34,6 @@ body {
 .sidebar .skill-line .progress {
     background-color: #4783c2;
 }
-
 .sidebar .skill-line .determinate {
     background-color: #ffffff;
 }
@@ -95,7 +90,6 @@ input[type=search]:focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
     border-bottom: 1px solid #5da4d9;
 }
-
 input[type=text]:focus:not([readonly]) + label,
 input[type=password]:focus:not([readonly]) + label,
 input[type=email]:focus:not([readonly]) + label,
@@ -109,17 +103,14 @@ input[type=search]:focus:not([readonly]) + label,
 textarea.materialize-textarea:focus:not([readonly]) + label {
     color: #5da4d9;
 }
-
 .waves-me:focus {
     background-color: #5da4d9;
     color: #fff;
 }
-
 .btn {
     margin-left: 10px;
     background-color: #5da4d9;
 }
-
 .btn:hover,
 .btn:focus {
     background-color: #5da4d9;
@@ -130,13 +121,11 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
     color: #fff;
     cursor: default;
 }
-
 .btn.disabled:focus {
     background-color: #5da4d9;
     color: #fff;
     cursor: default;
 }
-
 .btn.disabled:hover {
     background-color: #5da4d9;
     color: #fff;
