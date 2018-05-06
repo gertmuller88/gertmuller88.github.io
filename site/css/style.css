@@ -745,7 +745,7 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
 }
 
 #loader .loader-icon {
-    background: url(../images/loading.gif) no-repeat center center;
+    background: url(../img/loading.gif) no-repeat center center;
     background-color: #FFF;
     margin: -22px -22px;
     top: 50%;
