@@ -5,7 +5,8 @@ $(document).ready(function () {
     /* NAVIGATION  */
     /***************************************************************************/
 
-    $('.button-collapse').sideNav();
+    $('.sidenav').sidenav();
+    $('.scrollspy').scrollspy();
 
     /**************************************************************************
      SKILL BAR
