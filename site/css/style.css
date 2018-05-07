@@ -37,7 +37,7 @@ Primary use:	CV/Resume, Portfolio, Perosnal Website
 
 ------------------------------------------------------------------ */
 * {
-    font-family: 'roboto', sans-serif;
+    font-family: "Google Sans", 'roboto', sans-serif;
 }
 .fix {
     overflow: hidden;
@@ -137,7 +137,8 @@ h5 {
     padding: 0px;
     line-height: 15pt;
 }
-.fa {
+
+.fa, .fas, .fab {
     font-size: 22px;
 }
 /* style for
@@ -182,6 +183,10 @@ body {
     top: 0;
     padding: 0 16px;
 }
+
+.navbar-fixed nav {
+    background-color: #0073B1;
+}
 .sidebar .heading nav {
     background-color: initial;
     box-shadow: initial;
@@ -219,6 +224,11 @@ body {
     margin-top: 8px;
 }
 .sidebar .icon .fa {
+    display: inherit;
+    text-align: center;
+}
+
+.sidebar .icon .fab {
     display: inherit;
     text-align: center;
 }
@@ -278,6 +288,14 @@ body {
     right: 0px;
     margin-left: 50%;
 }
+
+.sidebar .skill-line .determinate .fab {
+    font-size: 12px;
+    position: absolute;
+    top: -5px;
+    right: 0px;
+    margin-left: 50%;
+}
 .sidebar .skill-line h3 {
     margin-top: 0px;
     margin-bottom: 20px;
@@ -298,6 +316,12 @@ body {
     text-align: left;
 }
 .section .fa {
+    text-align: center;
+    display: block;
+    font-size: 30pt;
+}
+
+.section .fab {
     text-align: center;
     display: block;
     font-size: 30pt;
@@ -363,6 +387,11 @@ body {
     width: 19%;
 }
 .interests ul li .fa {
+    color: #5da4d9;
+    text-align: left;
+}
+
+.interests ul li .fab {
     color: #5da4d9;
     text-align: left;
 }
@@ -620,6 +649,10 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
 .back-btn .fa {
     display: inline;
 }
+
+.back-btn .fab {
+    display: inline;
+}
 #back-button {
     display: none;
     text-align: center;
@@ -696,4 +729,13 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
 }
 .project-information li a {
     color: #5da4d9;
+}
+
+.fixed-action-btn {
+    position: fixed;
+    bottom: 23px;
+    right: 23px;
+    padding-top: 15px;
+    margin-bottom: 0;
+    z-index: 997;
 }
