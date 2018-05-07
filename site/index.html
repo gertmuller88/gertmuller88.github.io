@@ -18,21 +18,17 @@
     <!--        Stylesheets                         -->
     <!-- ========================================== -->
 
-    <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/materialize.min.css">
     <link rel="stylesheet" type="text/css" href="css/animate.css">
-    <link rel="stylesheet" type="text/css" href="css/css">
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,700,400italic,700italic">
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
     <!-- RESPONSIVE CSS-->
-    <link href="css/responsive.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/responsive.css">
 
     <!-- COLORS -->
     <link rel="stylesheet" type="text/css" href="css/lime.css">
-    <link rel="stylesheet" type="text/css" href="css/red.css" disabled="disabled">
-    <link rel="stylesheet" type="text/css" href="css/purple.css" disabled="disabled">
-    <link rel="stylesheet" type="text/css" href="css/orange.css" disabled="disabled">
-    <link rel="stylesheet" type="text/css" href="css/green.css" disabled="disabled">
 
     <!-- STYLE SWITCH STYLESHEET ONLY FOR DEMO -->
     <link rel="stylesheet" type="text/css" href="css/demo.css">
@@ -44,9 +40,32 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script><![endif]-->
 
-    <script type="text/javascript" charset="UTF-8" src="js/common.js"></script>
-    <script type="text/javascript" charset="UTF-8" src="js/util.js"></script>
-    <script type="text/javascript" charset="UTF-8" src="js/stats.js"></script>
+    <!--=====================
+               JavaScript
+       ===================== -->
+    <!-- Jquery core js-->
+    <script src="js/jquery.min.js"></script>
+
+    <!-- materialize js-->
+    <script src="js/materialize.min.js"></script>
+
+    <!-- wow js-->
+    <script src="js/wow.min.js"></script>
+
+    <!-- Map api -->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+    <!-- Masonry js-->
+    <script src="js/masonry.pkgd.js"></script>
+
+    <script src="js/validator.min.js"></script>
+
+    <!-- Customized js -->
+    <script src="js/init.js"></script>
+
+    <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/32/13/intl/pt_br/common.js"></script>
+    <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/32/13/intl/pt_br/util.js"></script>
+    <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/32/13/intl/pt_br/stats.js"></script>
 </head>
 <body>
 <!-- Start Container-->
@@ -321,75 +340,6 @@
         </section><!-- end section -->
     </div> <!-- end row -->
 </div>  <!-- end container -->
-
-<!--=====================
-               JavaScript
-       ===================== -->
-<!-- Jquery core js-->
-<script src="js/jquery.min.js"></script>
-
-<!-- materialize js-->
-<script src="js/materialize.min.js"></script>
-
-<!-- wow js-->
-<script src="js/wow.min.js"></script>
-
-<!-- Map api -->
-<script src="js/js"></script>
-
-<!-- Masonry js-->
-<script src="js/masonry.pkgd.js"></script>
-
-<script src="js/validator.min.js"></script>
-
-<!-- Customized js -->
-<script src="js/init.js"></script>
-
-<!-- =========================================================
-    STYLE SWITCHER | ONLY FOR DEMO NOT INCLUDED IN MAIN FILES
-===========================================================-->
-
-<!-- Style switter js -->
-<script src="js/styleswitcher.js"></script>
-
-<div class="cv-style-switch" id="switch-style">
-    <a id="toggle-switcher" class="switch-button icon_tools"> <i class="fa fa-cogs"></i></a>
-    <div class="switched-options">
-        <div class="config-title">
-            Colors :
-        </div>
-        <ul class="styles">
-            <li>
-                <a href="http://demo.deviserweb.com/cv/index.html#" onclick="setActiveStyleSheet(&;#39;red&;#39;) return false;" title="Red">
-                    <div class="red"></div>
-                </a></li>
-
-            <li>
-                <a href="http://demo.deviserweb.com/cv/index.html#" onclick="setActiveStyleSheet(&;#39;purple&;#39;) return false;" title="purple">
-                    <div class="purple"></div>
-                </a></li>
-
-            <li>
-                <a href="http://demo.deviserweb.com/cv/index.html#" onclick="setActiveStyleSheet(&;#39;orange&;#39;) return false;" title="orange">
-                    <div class="orange"></div>
-                </a></li>
-
-            <li>
-                <a href="http://demo.deviserweb.com/cv/index.html#" onclick="setActiveStyleSheet(&;#39;green&;#39;) return false;" title="green">
-                    <div class="green"></div>
-                </a></li>
-
-            <li>
-                <a href="http://demo.deviserweb.com/cv/index.html#" onclick="setActiveStyleSheet(&;#39;lime&;#39;) return false;" title="lime">
-                    <div class="lime"></div>
-                </a></li>
-
-            <li class="p">
-                ( NOTE: Pre Defined Colors. You can change colors very easily )
-            </li>
-        </ul>
-    </div>
-</div>
 
 <div class="hiddendiv common"></div>
 <div class="drag-target" style="left: 0px; touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></div>
