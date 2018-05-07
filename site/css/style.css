@@ -184,6 +184,9 @@ body {
     padding: 0 16px;
 }
 
+.navbar-fixed {
+    background-color: #0073B1;
+}
 .navbar-fixed nav {
     background-color: #0073B1;
 }
