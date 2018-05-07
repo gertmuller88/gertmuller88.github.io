@@ -11,28 +11,28 @@ body {
 */
 .sidebar {
     color: #ffffff;
-    background-color: #5da4d9;
+    background-color: #283E4A;
 
 }
 .sidebar .heading nav .button-collapse i {
-    background-color: #5da4d9;
+    /*background-color: #283E4A;*/
 }
 .sidebar .heading nav .side-nav h3 {
     color: #e74c3c;
 }
 .sidebar .heading nav .side-nav li a:hover {
-    color: #5da4d9;
+    color: #006093;
 }
 .sidebar .heading nav .side-nav li:hover {
     background-color: transparent !important;
 }
 
 .sidebar .info {
-    border-bottom: 1px solid #4783c2;
+    border-bottom: 1px solid #0073B1;
 }
 
 .sidebar .skill-line .progress {
-    background-color: #4783c2;
+    background-color: #0073B1;
 }
 .sidebar .skill-line .determinate {
     background-color: #ffffff;
@@ -54,7 +54,7 @@ body {
 }
 
 .custom-content-wrapper span {
-    color: #5da4d9;
+    color: #283E4A;
 }
 
 /*
@@ -62,7 +62,7 @@ body {
 */
 
 .interests ul li .fa {
-    color: #5da4d9;
+    color: #283E4A;
 }
 
 /*
@@ -70,7 +70,7 @@ body {
 */
 
 .website span a {
-    color: #5da4d9;
+    color: #006093;
 }
 
 /* ***** Contact  *****
@@ -88,7 +88,7 @@ input[type=tel]:focus:not([readonly]),
 input[type=number]:focus:not([readonly]),
 input[type=search]:focus:not([readonly]),
 textarea.materialize-textarea:focus:not([readonly]) {
-    border-bottom: 1px solid #5da4d9;
+    border-bottom: 1px solid #283E4A;
 }
 input[type=text]:focus:not([readonly]) + label,
 input[type=password]:focus:not([readonly]) + label,
@@ -101,33 +101,33 @@ input[type=tel]:focus:not([readonly]) + label,
 input[type=number]:focus:not([readonly]) + label,
 input[type=search]:focus:not([readonly]) + label,
 textarea.materialize-textarea:focus:not([readonly]) + label {
-    color: #5da4d9;
+    color: #283E4A;
 }
 .waves-me:focus {
-    background-color: #5da4d9;
+    background-color: #283E4A;
     color: #fff;
 }
 .btn {
     margin-left: 10px;
-    background-color: #5da4d9;
+    background-color: #283E4A;
 }
 .btn:hover,
 .btn:focus {
-    background-color: #5da4d9;
+    background-color: #283E4A;
 }
 
 .btn.disabled {
-    background-color: #5da4d9;
+    background-color: #283E4A;
     color: #fff;
     cursor: default;
 }
 .btn.disabled:focus {
-    background-color: #5da4d9;
+    background-color: #283E4A;
     color: #fff;
     cursor: default;
 }
 .btn.disabled:hover {
-    background-color: #5da4d9;
+    background-color: #283E4A;
     color: #fff;
     cursor: default;
 }
